@@ -11,7 +11,7 @@ const Home = () => {
     document.title = 'National Open University of Nigeria'
   return (
     <div>
-        <img onClick={click} className='home' src={main} alt="text" width='1340' />
+        <img onClick={click} className='home' src={main} alt="text" width='1340' draggable='ni' />
     </div>
   )
 }
