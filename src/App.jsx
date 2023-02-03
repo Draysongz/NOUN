@@ -8,8 +8,8 @@ function App() {
     <div className="App">
       <Router>
         <Routes>
-          <Route path='/' element={<Home/>}/>
-          <Route path='/studprof.php' element={<Dash />}/>
+          <Route path='/' exact element={<Home/>}/>
+          <Route path='/studprof' element={<Dash />}/>
         </Routes>
       
       </Router>

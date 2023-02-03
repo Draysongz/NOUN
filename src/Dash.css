@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Helvetica');
+*{
+    margin:auto;
+    padding:auto;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: rgb(2, 117, 2);
+    height:12vh;
+    margin-top: .1%;
+    width:99.7%;
+    color:#333;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align: center;
+    padding:1%;
+}
+.header h3{
+    font-size: 14px;
+    line-height: 1.42857143;
+    margin-top:1%;
+    color:wheat;
+}
+.header h2{
+    color:white;
+    font-size: 14px;
+}

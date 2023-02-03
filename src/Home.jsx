@@ -6,7 +6,7 @@ import { useNavigate } from 'react-router-dom'
 const Home = () => {
     const navigate = useNavigate()
     function click(){
-        navigate('/studprof.php')
+        navigate('/studprof')
     }
     document.title = 'National Open University of Nigeria'
   return (
