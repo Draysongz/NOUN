@@ -25,3 +25,30 @@
     color:white;
     font-size: 14px;
 }
+.nav-menu{
+    background: linear-gradient(to left, red, black);
+    border-radius: 5px;
+    width:75%;
+    height:15vh;
+}
+.navbar{
+    color: skyblue;
+    display:flex;
+    text-align: center;
+    font-size: 14px;
+
+}
+.balance, .user, .units{
+    display:flex;
+    width:20%;
+}
+.second{
+    background: conic-gradient(from 3deg, white, skyblue, white );
+    margin-top: 2%;
+    height: 25vh;
+}
+hr{
+    margin-top:-2%;
+    display:block;
+    width:65vw;
+}

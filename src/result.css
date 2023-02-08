@@ -1,0 +1,40 @@
+.result-cont{
+    background-image: url('./assets/bg.jpg');
+    height:100vh;
+    /*width:100vw; */
+    background-repeat: no-repeat;
+    padding: 30px 30px;
+    background-position: center center !important;
+    background-size: 100% 100%;
+    padding: 25px 150px;
+    border: 2px solid white;
+    border-radius: 25px;
+}
+.heading{
+    text-align:center;
+    font-size: medium;
+}
+.unilogo{
+    text-align:center;
+}
+#search{
+    width:15vw;
+    height:4vh;
+}
+.searche{
+    
+    margin-left: 65%;
+}
+#searcht{
+    margin-top:-1%;
+}
+.pdf{
+    padding:.5%;
+    border-radius:3px;
+    width:5vw;
+    height:6vh;
+    background-color: whitesmoke;
+    border: 1px solid grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
