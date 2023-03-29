@@ -3,8 +3,7 @@ import Home from './Home'
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import Dash from './Dash'
 import Result from './Result'
-import Err from './Err'
-import 'bootstrap/dist/css/bootstrap.min.css';
+import Err from './Err
 
 
 function App() {
